@@ -1,9 +1,9 @@
-**Premium Subscription Conversion Rate Optimization (Python and A/B Test)**  
+# **Premium Subscription Conversion Rate Optimization (Python and A/B Test)**  
 **Goal:** To increase premium subscription conversion by analyzing how an alternative subscription screen affects user behavior.  
 **Method and Tools:** Data analysis with Python (Pandas, Matplotlib, Seaborn, Statsmodels), hypothesis testing with z-test, and checking statistical significance with a 95% confidence level.  
 **Gain:** Understanding how to design and analyze A/B tests, apply and interpret statistical tests, create visualizations, and make product decisions based on data.  
 
-**Premium Abonelik Dönüşüm Oranı Optimizasyonu (Python ve A/B Test)**  
+# **Premium Abonelik Dönüşüm Oranı Optimizasyonu (Python ve A/B Test)**  
 **Amaç:** Alternatif bir abonelik ekranının kullanıcı davranışlarına etkisini analiz ederek premium abonelik dönüşümünü artırmak.  
 **Yöntem ve Araçlar:** Python ile veri analizi (Pandas, Matplotlib, Seaborn, Statsmodels), z-testi ile hipotez testi, %95 güven aralığı ile sonuçların istatistiksel anlamlılığının test edilmesi.  
 **Kazanım:** A/B testi analizi ve tasarımı, istatistiksel test uygulama ve yorumlama, görselleştirme, veri temelli ürün kararı verme.  
