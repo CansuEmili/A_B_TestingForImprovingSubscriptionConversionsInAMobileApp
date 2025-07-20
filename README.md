@@ -1,12 +1,12 @@
-**A/B Testing for Improving Subscription Conversions in a Mobile App**
+**Premium Subscription Conversion Rate Optimization (Python and A/B Test)**  
+**Goal:** To increase premium subscription conversion by analyzing how an alternative subscription screen affects user behavior.  
+**Method and Tools:** Data analysis with Python (Pandas, Matplotlib, Seaborn, Statsmodels), hypothesis testing with z-test, and checking statistical significance with a 95% confidence level.  
+**Gain:** Understanding how to design and analyze A/B tests, apply and interpret statistical tests, create visualizations, and make product decisions based on data.  
 
-**Goal:** To increase premium subscription conversion rate by analyzing how users react to the current and alternative subscription screens.
-
-**Method and Tools:** Data analysis with Python (Pandas, Matplotlib, Seaborn, Statsmodels), A/B test planning (hypothesis, metric selection, sample size), statistical hypothesis testing with z-test, comparison of conversion rates with 95% confidence intervals, time series chart for daily conversion trends.
-
-**Results:** The alternative screen with a “50% discount” message had a higher and statistically significant conversion rate (8.9% vs 6.1%, p < 0.05). The new screen was recommended for all users.
-
-**Skills Gained:** Planning and running A/B tests, using z-test and interpreting p-values, analyzing data with confidence intervals, visualizing and reporting results with Python, supporting product decisions based on data.
+**Premium Abonelik Dönüşüm Oranı Optimizasyonu (Python ve A/B Test)**  
+**Amaç:** Alternatif bir abonelik ekranının kullanıcı davranışlarına etkisini analiz ederek premium abonelik dönüşümünü artırmak.  
+**Yöntem ve Araçlar:** Python ile veri analizi (Pandas, Matplotlib, Seaborn, Statsmodels), z-testi ile hipotez testi, %95 güven aralığı ile sonuçların istatistiksel anlamlılığının test edilmesi.  
+**Kazanım:** A/B testi analizi ve tasarımı, istatistiksel test uygulama ve yorumlama, görselleştirme, veri temelli ürün kararı verme.  
 
 ![1](https://github.com/user-attachments/assets/f33b037c-01ea-4f48-bc03-e4fe2dce248e)
 ![2](https://github.com/user-attachments/assets/dcdc081f-2137-4152-96f2-6ed4913e8201)
